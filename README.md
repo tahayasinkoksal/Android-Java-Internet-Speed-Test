@@ -1,6 +1,6 @@
 # Android-Java-Internet-Speed-Test
 This application measures the internet speed and displays it with an indicator on the screen. <br>
-<img src="image.gif">
+<img src="image.gif" width="500">
 
 
 
